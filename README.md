@@ -1,5 +1,5 @@
 Hi there 👋 
-My name is Beatriz!
+My name is Beatriz! :woman_technologist: 
 - 🌱 I’m currently learning web development.
 - 😄 Pronouns: she/her 
 
