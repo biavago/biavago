@@ -4,12 +4,6 @@ My name is Beatriz! :woman_technologist:
 - 😄 Pronouns: she/her 
 
 
-<div align="left">
-  <a href="https://github.com/biavago">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=biavago&layout=compact&langs_count=7&theme=dracula"/>
-</div>
-  
-  ##
 
 <div> 
   <a href="https://instagram.com/biavago" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" target="_blank"></a>
